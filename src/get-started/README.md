@@ -7,8 +7,9 @@ category:
 
 # 快速上手
 
-> [!tip]
-> 本部分的教程适用于完全没有接触过 Zinc，和对计算机相关概念了解不多的用户。如果您已经有了相关经验，请参阅[帮助文档](../app/README.md)。
+::: tip
+本部分的教程适用于完全没有接触过 Zinc，和对计算机相关概念了解不多的用户。如果您已经有了相关经验，请参阅[帮助文档](../app/README.md)。
+:::
 
 欢迎来到从零开始的 Zinc 之旅！Zinc 是一款面向 OIer（信息学竞赛选手）的代码编辑器，可以一目了然地编辑并调试代码。本应用的名字灵感源于 锌元素。
 
@@ -32,10 +33,3 @@ category:
 
 - [下载与安装](./setup.md)
 - [基本概念](./basic.md)
-- **编辑课表**
-    - [创建课表](./profile/classplan.md)
-    - [多周轮换](./profile/rotating-schedule.md)
-- [编辑组件](./components.md)
-- [上下课提醒](./notification.md)
-- [部署到班级大屏](./deploy.md)
-- [结语](./outro.md)
