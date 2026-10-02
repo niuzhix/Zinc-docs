@@ -28,13 +28,13 @@ Zinc 以 [Github Release](https://github.com/niuzhix/Zinc/releases/latest) 作�
 
 **👉 在浏览器中打开<https://github.com/niuzhix/Zinc/releases/latest>。**
 
-在 Windows 中，应用有“依赖框架”和“含运行时”两种构建模式。顾名思义，“含运行时”版包含了应用运行所需的运行时，后续安装步骤中无需再安装 .NET 运行时。而“依赖框架”版与前者相对，不包含运行时，需要在后续步骤手动安装 .NET 运行时。您可以根据需要选择对应的版本。
-
 还记得刚刚查看的系统信息吗？您需要根据系统信息中的架构信息下载对应架构的应用。
 
-**👉 如果您的系统架构为 x64，直接点击 Windows 下的蓝色下载按钮下载即可。如果您的系统属于其它架构，则需要点击蓝色下载按钮旁的向下箭头展开更多的下载选项，选择对应的架构下载。**
+**👉 向下滚动页面，您将会看到类似 `Zinc_app_xxx_xxx_x.x.x_selfContained.zip` 的链接。**
 
-不出意外的话，您应该会跳转到下载界面并开始下载。等待下载完成后，我们就可以将应用安装到您的设备上了。
+其中第一部分为系统类型，第二部分为系统架构。
+
+**👉 选择对应的版本进行下载。**
 
 ## 安装 Zinc
 
@@ -49,7 +49,7 @@ Zinc 以 [Github Release](https://github.com/niuzhix/Zinc/releases/latest) 作�
 :::caution
 
 - 不要直接在压缩包内运行 Zinc。
-- 解压时请解压所有文件
+- 解压时请解压所有文件。
 
 :::
 
