@@ -13,7 +13,7 @@ tag:
 
 这里是编写代码的最重要部分。
 
-**👉️ 粘贴以下代码至编辑器以查看效果。**
+**:point_right: 粘贴以下代码至编辑器以查看效果。**
 
 ```cpp
 #include<iostream>
@@ -29,7 +29,7 @@ int main(){
 
 通过这个面板，你可以查看代码的编译情况以及日志。
 
-**👉️ 点击 `✅编译`，然后选择代码的保存位置。**
+**:point_right: 点击 :white_check_mark:编译，然后选择代码的保存位置。**
 
 你可能会看到如下的输出：
 
@@ -40,7 +40,7 @@ int main(){
 
 这代表编译成功。
 
-**👉️ 粘贴以下代码至编辑器，并编译：**
+**:point_right: 粘贴以下代码至编辑器，并编译：**
 
 ```cpp
 #include<iostream>
@@ -72,7 +72,7 @@ F:\Hello?cpp:6:13: error: expected ';' before '}' token
 
 这里是仅次于编辑器的重要部分，可帮助你快速调试代码。
 
-**👉️ 粘贴以下代码至编辑器，并编译：**
+**:point_right: 粘贴以下代码至编辑器，并编译：**
 
 ```cpp
 #include<iostream>
@@ -86,11 +86,11 @@ int main(){
 }
 ```
 
-**👉️ 在调试框内输入以下数据：**
+**:point_right: 在调试框内输入以下数据：**
 
 ![样例](./image/basic/image-1.png)
 
-**👉️ 点击 `➡️运行样例`。**
+**:point_right: 点击 :arrow_right:运行样例。**
 
 ![通过](./image/basic/image-2.png)
 

@@ -26,9 +26,9 @@ tag:
 
 这里可以同时打开多份代码。
 
-**👉️ 点击 `New Document 0` 右侧的 `+` 号新建一个页面。**
+**:point_right: 点击 `New Document 0` 右侧的 :heavy_plus_sign: 号新建一个页面。**
 
-**👉️ 点击选项卡右侧的 `x` 关闭页面。**
+**:point_right: 点击选项卡右侧的 :heavy_multiplication_x: 关闭页面。**
 
 ### 编辑器
 
