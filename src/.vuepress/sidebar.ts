@@ -16,6 +16,7 @@ export default sidebar({
           "README.md",
           "setup.md",
           "basic.md",
+          "edit.md",
       ],
     },
   ],

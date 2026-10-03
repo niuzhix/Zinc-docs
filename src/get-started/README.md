@@ -33,3 +33,4 @@ category:
 
 - [下载与安装](./setup.md)
 - [基本概念](./basic.md)
+- [编辑器](./edit.md)

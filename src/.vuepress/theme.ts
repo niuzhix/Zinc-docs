@@ -50,6 +50,10 @@ export default hopeTheme({
     imgLazyload: true,
     imgSize: true,
     include: true,
+    highlighter: {
+      type: "shiki",
+      notationErrorLevel: true,
+    },
     mark: true,
     plantuml: true,
     spoiler: true,
