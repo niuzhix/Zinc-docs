@@ -88,11 +88,11 @@ int main(){
 
 **:point_right: 在调试框内输入以下数据：**
 
-![样例](./image/basic/image-1.png)
+![样例](./image/edit/image-1.png)
 
 **:point_right: 点击 :arrow_right:运行样例。**
 
-![通过](./image/basic/image-2.png)
+![通过](./image/edit/image-2.png)
 
 此处 `AC` 即代表通过。
 
